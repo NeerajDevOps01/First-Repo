@@ -1,7 +1,7 @@
 # Add two numbers
 
 num1 = float(input("Enter  fifufufu first number: "))
-num2 = float(input("Enter second number: "))
+num2 = float(input("Enter second jcdfhdcsdkjcsdcnumber: "))
 
 sum = num1 + num2
 
